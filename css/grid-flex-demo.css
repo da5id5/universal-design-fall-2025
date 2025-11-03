@@ -57,7 +57,7 @@ footer {
    1fr       2fr       1fr;
   grid-template-areas:
   "heady     heady     heady"
-  "navvy     navvy     navvy"
+  "navvy         navvy  ."
   "aside1    mainy     aside2"
   "aside1    mainy     aside2"
   "aside1    mainy     aside2"
